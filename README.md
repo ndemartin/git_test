@@ -1,0 +1,1 @@
+This is a git project launched from a virtual machine.
